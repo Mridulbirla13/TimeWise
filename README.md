@@ -22,9 +22,3 @@ TimeWise is a simple yet elegant web-based clock application built with React.js
 - **Container Component**: Provides layout and styling for the clock.
 - **App Component**: Main component that sets up the clock, manages state, and integrates the clock into the web application.
 - **CSS Files**: Custom styles to enhance the appearance and layout of the clock components.
-
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/timewise-react-clock-app.git
